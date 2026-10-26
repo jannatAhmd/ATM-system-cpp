@@ -3,7 +3,7 @@
 Console ATM application built as a course project (Dr. Mohammed Abu-Hadhoud's Algorithms and problem solving level 4 course). Individual project.
 
 ## Features
-- **Login:** username and PIN screen at startup
+- **Login:** Account number and PIN screen at startup
 - **Quick withdraw**
 - **Normal withdraw**
 - **Deposit**
